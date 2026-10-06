@@ -1,11 +1,11 @@
 # Anas Amin · أنس أمين
 
-Software team lead and senior .NET engineer, based in Egypt. I founded [Arkedia](https://arkedia.dev).
+Software engineer in .NET, based in Egypt. I founded [Arkedia](https://arkedia.dev), which I run on the side.
 33 systems shipped on ASP.NET Core, Angular and Blazor. 14 are live.
 
 **Case studies, notes and CV: [anasamin.dev](https://anasamin.dev)** · [بالعربية](https://anasamin.dev/ar/)
 
-Open to team lead and senior .NET roles. Riyadh or remote. [Work with me](https://anasamin.dev/work-with-me/)
+Open to software engineering roles: remote, Riyadh or Europe. [Work with me](https://anasamin.dev/work-with-me/)
 
 Latest notes:
 - [Sending leads to Odoo without losing one: a transactional outbox in ASP.NET Core](https://anasamin.dev/notes/odoo-outbox-aspnet-core/)
