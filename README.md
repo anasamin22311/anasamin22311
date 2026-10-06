@@ -8,5 +8,6 @@ Software team lead and senior .NET engineer, based in Egypt. I founded [Arkedia]
 Open to team lead and senior .NET roles. Riyadh or remote. [Work with me](https://anasamin.dev/work-with-me/)
 
 Latest notes:
+- [Sending leads to Odoo without losing one: a transactional outbox in ASP.NET Core](https://anasamin.dev/notes/odoo-outbox-aspnet-core/)
 - [Telr payments in ASP.NET Core: the parts the docs skip](https://anasamin.dev/notes/telr-payments-aspnet-core/)
 - [تطبيق Angular بالعربية والإنجليزية: الاتجاه والخطوط والأرقام](https://anasamin.dev/ar/notes/arabic-english-angular/)
